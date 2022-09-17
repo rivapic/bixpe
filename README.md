@@ -19,7 +19,7 @@ example crontab
 
 05 14  *  *  1-4 /app/bixpe.sh USER PASS comer
 
-04 15  *  *  1-4 /app/bixpe.sh USER PASS 789RGJ reanudar
+04 15  *  *  1-4 /app/bixpe.sh USER PASS reanudar
 
 28 17  *  *  1-4 /app/bixpe.sh USER PASS finalizar
 
